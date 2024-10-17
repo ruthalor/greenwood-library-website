@@ -15,3 +15,7 @@ Next, create a new file. Our new file is **book_reviews**
 
 Stage, commit and push these changes to the **add-book-reviews** branch.
 ![changes by morgan](./images/5.png)
+
+Here we have the changes made on the **add-book-reviews** branch pulled into the main branch, also this has been committed and pushed to the main branch repository. 
+![](./images/6.png)
+![](./images/7.png)
