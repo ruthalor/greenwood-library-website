@@ -25,3 +25,4 @@ Also create a new file for Jamie
 ![](./images/8.png)
 
 Stage, Commit and Push these changes to the **update-events** branch on Github. 
+![](./images/9.png)
