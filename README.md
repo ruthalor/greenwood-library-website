@@ -20,7 +20,7 @@ Here we have the changes made on the **add-book-reviews** branch pulled into the
 ![](./images/6.png)
 ![](./images/7.png)
 
-Next, create a new branch for Jamie. Name of branch is **update-events**
+Next, create a new branch for Jamie. Name of branch is **update-events**.
 Also create a new file for Jamie
 ![](./images/8.png)
 
