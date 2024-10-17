@@ -23,4 +23,5 @@ Here we have the changes made on the **add-book-reviews** branch pulled into the
 Next, checkout to the main origin. 
 Pull and merge changes from the branch **update-events**.
 Push and commit these changes to the main branch.
+
 DONE!
