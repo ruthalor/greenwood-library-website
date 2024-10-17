@@ -19,3 +19,7 @@ Stage, commit and push these changes to the **add-book-reviews** branch.
 Here we have the changes made on the **add-book-reviews** branch pulled into the main branch, also this has been committed and pushed to the main branch repository. 
 ![](./images/6.png)
 ![](./images/7.png)
+
+Here we are creating a new branch for Jamie, branch name is **update-events**
+Also creating a new file, commit and stage these changes. 
+![done by jamie](./images/8.png)
