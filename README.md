@@ -24,3 +24,11 @@ Here we are creating a new branch for Jamie, branch name is **update-events**
 Also creating a new file, commit and stage these changes. 
 ![done by jamie](./images/8.png)
 ![commited](./images/9.png)
+
+Next we have to pull and merge these changes to our main branch.
+Then stage, commit and push to the main branch on github.
+
+![merged](./images/10.%20.png)
+![pushed](./images/11.png)
+
+# DONE!
