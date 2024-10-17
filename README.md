@@ -19,3 +19,8 @@ Stage, commit and push these changes to the **add-book-reviews** branch.
 Here we have the changes made on the **add-book-reviews** branch pulled into the main branch, also this has been committed and pushed to the main branch repository. 
 ![](./images/6.png)
 ![](./images/7.png)
+
+Next, checkout to the main origin. 
+Pull and merge changes from the branch **update-events**.
+Push and commit these changes to the main branch.
+DONE!
