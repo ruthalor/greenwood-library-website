@@ -23,3 +23,4 @@ Here we have the changes made on the **add-book-reviews** branch pulled into the
 Here we are creating a new branch for Jamie, branch name is **update-events**
 Also creating a new file, commit and stage these changes. 
 ![done by jamie](./images/8.png)
+![commited](./images/9.png)
